@@ -7,3 +7,5 @@
 - Redux Thunk
 - Sass
 - Ant Design (React UI library)
+
+To start the proyect: npm start
